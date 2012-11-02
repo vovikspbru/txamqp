@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: txamqp
+Version: qik.1.0.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Vladimir Kuznetsov
+Author-email: vladimir.kuznetsov@skype.net
+License: Proprietary
+Description: Common Qik Python code.
+        
+        Extracted from:
+         - Qik 
+        
+Platform: UNKNOWN
